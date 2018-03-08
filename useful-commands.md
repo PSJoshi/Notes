@@ -43,8 +43,9 @@ $ tcpflow -r file.pcap tcp and port \(80 or 443\)
 $ tcpick -r file.pcap -C -yP -h 'port (25 or 587)'
 ```
 // [-wRu] write both flows; [-wRC] write client flows only ; [-wRS] write server flows only
+```
 $ tcpick -r file.pcap -wRu 
-
+```
 
 ### Replay
 ```
