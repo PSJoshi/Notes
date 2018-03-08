@@ -89,5 +89,5 @@ $ tcprewrite --enet-dmac=00:44:66:FC:29:AF,00:55:22:AF:C6:37
 ```
 $ tcprewrite --seed=423 --infile=in.pcap --outfile=out.pcap
 ```
-Ref - http://www.draconyx.net/talks/pcapworksheet.txt and many thanks for John Schipp.
+Ref - http://www.draconyx.net/talks/pcapworksheet.txt and many thanks to John Schipp.
 
