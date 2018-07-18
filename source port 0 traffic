@@ -1,0 +1,11 @@
+## Traffic on Source port 0 in Netflow 
+
+NetFlow will separate TCP communications longer than 5 minutes into separate  flows,  which  can  be  identified  because  the  source  port  is  ‘0.
+
+In  addition, packets  that  exceed  the  maximum  transmission  unit  (MTU)  size  are  fragmented  into several packets but only the first packet will contain an valid TCP port.  The remaining fragments  will  have  no  layer  4  header  and  thus  have  a  destination  port  set  to  0.
+
+IANA’s  Service  Name  and  Transport  Protocol  Port  Number  Registry  list  port  0  as reserved,  but  valid,  for  both  TCP  and  UDP.Because  the  specification  does  not define behavior for connections established on those ports, attackers may use responses to fingerprint the operating systems of destination hosts. Furthermore, hackers may craft 'impossible' packets to DDoS firewalls because some routers prevent administrators from entering port 0 in the access control list since it’s supposedly impossible for traffic to be on that port.  Making such packets requires using raw sockets software calls that specify everything after the Ethernet header using bytes
+
+Ref - 
+* The strange history of port 0 - http://www.lovemytool.com/blog/2013/08/the-strange-history-of-port-0-by-jim-macleod.html
+
