@@ -1,0 +1,22 @@
+### Common terms used Machine learning
+
+* Statistics: Statistics is the science of collecting, organising, summarising, analysing and interpreting data.
+
+* Data mining - process of automatically discovering useful information in large data repositories.
+
+* Machine learning - set of techniques that allow you to deal with hugh dataset in intelligent way (by developing algorithms or set of logical rules) to derive actionable insights (delivering search for users in this case)
+
+* Quantitative variables - take numerical values whose size is meaningful.
+Quantitative variables typically have measurement units, such as pounds, dollars, years, volts, gallons, megabytes, inches, degrees, miles per hour, pounds per square inch, BTUs, and so on. So, it makes sense to add, to subtract, and to compare two persons’ weights, or two families’ incomes.
+
+* Qualitative variables - Qualitative (categorical) variables typically do not have units.e.g. gender, hair color, or ethnicity — group individuals. Qualitative and categorical variables have neither a “size” nor, typically, a natural ordering to their values.
+Some variables such as social security numbers, zip codes take numerical values but are not quantitative. The sum of two zip codes or social security numbers is not meaningful. so, they are qualitative or categorical variables.
+
+* Types of data:
+  * Numerical data - continuous data, discrete data
+  * Categorical data - normal level, ordinal level
+* Measurements:
+  * Nominal -  values of variables are names, so used for categorical/qualitative analysis
+  * Ordinal -collecting information in which order is important e.g. tracking of student grades
+  * Interval - distance between values have a special meaning - difference in temperature
+  * Ratio - estimation of ratio between magnitude of continuous quantity
