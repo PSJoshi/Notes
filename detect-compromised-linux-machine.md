@@ -131,3 +131,4 @@
 ```
 # find /tmp -type f -exec file -p '{}' \; | grep ELF
 ```
+Thanks to Sandrfly security - https://www.sandflysecurity.com/wp-content/uploads/2018/11/Linux.Compromise.Detection.Command.Cheatsheet.pdf
