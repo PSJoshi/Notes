@@ -9,3 +9,4 @@ Although measurement of health of system can be stored in performance log file, 
 In summary, a log is an event that happened and a metric is a measurement of the health of a system.
 
 Based on nice explanation from - https://www.sumologic.com/blog/logs-metrics-overview/
+Another interesting take on log vs metrics is here - https://whiteink.com/2019/logs-vs-metrics-a-false-dichotomy/
