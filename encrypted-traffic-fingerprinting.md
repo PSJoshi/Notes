@@ -92,7 +92,7 @@ d93f46d063c4382b6232a4d77db532b2 SSH-2.0-dropbear_2016.72
 2dd9a9b3dbebfaeec8b8aabd689e75d2 SSH-2.0-AWSCodeCommit
 ```
 
-### SSL fingerprinting
+### SSL fingerprinting using JA3 ( https://github.com/salesforce/ja3)
 JA3/JA3S developed by Salesforce team  is an SSL/TLS fingerprint method. This tool allows you to create fingerprints that can be produced on any platform for threat intelligence analysis.
 
 In the same cases, using JA3/JA3S as a fingerprinting technique for the TLS negotiation between both ends (client and server) can produce a more accurate identification of the encrypted communications and helps identify clients and servers with high probability in almost all cases e.g. 
@@ -103,7 +103,7 @@ Standard Tor Client:
 JA3 = e7d705a3286e19ea42f587b344ee6865 (Tor Client)
 JA3S = a95ca7eab4d47d051a5cd4fb7b6005dc (Tor Server Response)
 ```
-### DNS fingerprinting
+### DNS fingerprinting using fpdns (https://github.com/kirei/fpdns)
 Some tools like Fpdns can be used to identify based on queries DNS the software that is used as the DNS server. This is especially TRUE even if DNS server "BIND" version printing is disabled.
 
 ```
@@ -119,4 +119,5 @@ Replace site.com with the actual site of your interest!
 * https://www.netresec.com/?page=Blog&tag=Satori
 * https://www.grc.com/fingerprints.htm
 * https://jis-eurasipjournals.springeropen.com/articles/10.1186/s13635-016-0030-7
+* Various DNS tools - https://www.dns-oarc.net/tools
 
