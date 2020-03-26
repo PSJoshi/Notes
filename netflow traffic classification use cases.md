@@ -1,3 +1,37 @@
+### Explanation of Flows vs Connection vs Session
+A network flow is defined as unidirectional sequence of packets between two network 
+endpoints and have the following attributes:
+* Source IP
+* Destination IP
+* Protocol
+* Source Port
+* Destination Port 
+* Type of service (ToS)
+* Input interface
+
+Whereas connection is simply a bidirectional flow (a forward flow and a reverse flow)
+
+In a session, you will have many connections between same source and destination. In addition, routing 
+policies, paths followed by packets in flows and sessions are different as explained below:
+
+IP routing is stateless and routes each packet based on the IP address and port. A stateless 
+connection is one in which no information is retained by either sender or receiver. TCP is used
+to manage state and is managed by the end servers. Firewalls are stateful and keep track of 
+TCP/UDP sessions. The firewall tracks the attributes of the session such as sequence numbers 
+and keeps this information in dynamic state tables. Load balancers and WAN Optimizers are 
+added to networks to manage the state of a session to solve the problem of stateless routers.
+
+ IP routing creates a fixed path between two networks. While routes can change based on network
+ outages, it is not possible to dynamically route a flow over multiple paths in a stateless 
+ network. Flows are packet based whereas sessions are services/application based. In a flow, 
+ all packets that are alike, are treated the same. For instance, if there are six concurrent 
+ cloud based video streams, the router will treat all the UDP packets the same once the flow 
+ is established. Session based networking allows each session to be dynamically treated 
+ different such as priority and bandwidth shaping.
+ 
+ ### Credits:
+ * https://talkingpointz.com/flows-vs-sessions/
+
 ## Netflow traffic classification using netflow
 
 ### Name: Good traffic
