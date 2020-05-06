@@ -1,8 +1,8 @@
 ### Block unsafe file type in email messages
-Google and Microsoft are most heavyweight in Internet World and receive maximum spam messages for their Gmail and Outlook services. In the support pages for each of these services, they have listed the file type extensions that are being blocked. If you are managing your own
-E-mail server, it's time to take advantage of these extension to secure your organization.
+Google and Microsoft are most heavyweight in Internet World and receive maximum spam messages for their Gmail and Outlook services. In the support pages for each of these services, they have listed the file type extensions that are being blocked. If you are managing your own E-mail server, it's time to take advantage of these extension to secure your organization.
 
 #### Gmail blocked extensions:
+```
 ade
 adp
 apk
@@ -47,8 +47,9 @@ vxd
 wsc
 wsf
 wsh
-
+```
 #### Microsoft blocked extensions
+```
 ade
 adp
 app
@@ -164,9 +165,9 @@ wsh
 xbap
 xll
 xnk
-
+```
 Since there are duplicates, I have merged them to form a combined list and you can use it to block in postfix/sendmail configurations.
-
+```
 ade
 adp
 apk
@@ -295,8 +296,8 @@ wsh
 xbap
 xll
 xnk
-
+```
 ### References:
-Blocked attachments in outlook - https://support.office.com/en-us/article/Blocked-attachments-in-Outlook-434752E1-02D3-4E90-9124-8B81E49A8519
-Blocked attachments in gmail - https://support.google.com/mail/answer/6590?hl=en
+* Blocked attachments in outlook - https://support.office.com/en-us/article/Blocked-attachments-in-Outlook-434752E1-02D3-4E90-9124-8B81E49A8519
+* Blocked attachments in gmail - https://support.google.com/mail/answer/6590?hl=en
  
