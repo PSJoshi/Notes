@@ -1,4 +1,4 @@
-### Block unsafe file type in email messages
+### Block unsafe file types in email messages (attachements)
 Google and Microsoft are most heavyweight in Internet World and receive maximum spam messages for their Gmail and Outlook services. In the support pages for each of these services, they have listed the file type extensions that are being blocked. If you are managing your own E-mail server, it's time to take advantage of these extension to secure your organization.
 
 #### Gmail blocked extensions:
