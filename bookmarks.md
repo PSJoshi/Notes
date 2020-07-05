@@ -6,6 +6,12 @@
 * Rangeforce Cyber security simulation training platform - https://rangeforce.com/wp-content/uploads/2020/03/A-Market-Guide-to-CyberSecurity-Simulation-Training-2020b.pdf
 * Reconstruct process trees from event logs - https://github.com/williballenthin/process-forest
 * Url analysis using Unfurl - https://lospi.net/python/unfurl/abrade/hacking/2018/02/08/unfurl-url-analysis.html
+* Tracking potential malicious files Belkasoft paper - https://belkasoft.com/whitepaper_tracking_potentially_malicious_files
+* Automating PCAP analysis using bash,Security Onion - https://medium.com/@mikecybersec/automating-pcap-parsing-with-linux-cli-bash-security-onion-780cb2b08b6e
+* Monitoring linux logs with Kibana - https://medium.com/@solnichkin.antoine/monitoring-linux-logs-with-kibana-and-rsyslog-4dfbbd287807
+* Learning cyber security, good links - https://github.com/1d8/CybersecLearning
+* Thematic for success in offensive cyber operations, NCC group - https://research.nccgroup.com/wp-content/uploads/2020/07/1992-Insight-Space-Technical-Deep-Dive-June-v2.pdf
+
 
 ### Modern web development
 * Access AJAX,Websockets,SSE in HTML - https://htmx.org/
@@ -13,3 +19,9 @@
 
 ### Webinars
 * Fishing for network health using batfish - https://www.brighttalk.com/webcast/17628/391789
+
+### Tracking evidence of program execution on windows
+* Forensic Artifacts: evidences of program execution on Windows systems - https://www.andreafortuna.org/2018/05/23/forensic-artifacts-evidences-of-program-execution-on-windows-systems/
+*  Evidence of execution on Windows -
+  * https://blog.1234n6.com/2018/10/available-artifacts-evidence-of.html
+  * https://blog.1234n6.com/2019/01/available-artifacts-evidence-of.html
