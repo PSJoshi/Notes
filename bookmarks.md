@@ -22,6 +22,6 @@
 
 ### Tracking evidence of program execution on windows
 * Forensic Artifacts: evidences of program execution on Windows systems - https://www.andreafortuna.org/2018/05/23/forensic-artifacts-evidences-of-program-execution-on-windows-systems/
-*  Evidence of execution on Windows -
-  * https://blog.1234n6.com/2018/10/available-artifacts-evidence-of.html
-  * https://blog.1234n6.com/2019/01/available-artifacts-evidence-of.html
+* Evidence of execution on Windows -
+   * https://blog.1234n6.com/2018/10/available-artifacts-evidence-of.html
+   * https://blog.1234n6.com/2019/01/available-artifacts-evidence-of.html
