@@ -10,6 +10,12 @@ algorithms that simulate molecules and properties of materials.
 * Introduction to Coding Quantum Algorithms - https://arxiv.org/pdf/1903.04359.pdf
 * Fundamentals in quantum algorithms - https://arxiv.org/pdf/2008.10647.pdf
 
+* Quantum implementation of Shor's code multiple simulator platforms -
+  * https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11167/111670B/Quantum-implementation-of-the-Shor-code-on-multiple-simulator-platforms/10.1117/12.2532539.full?SSO=1
+  * https://www.spiedigitallibrary.org/proceedings/Download?fullDOI=10.1117/12.2532539
+
+* Prototype Container-Based Platform for Extreme Quantum Computing Algorithm Development - https://ieeexplore.ieee.org/document/8916430
+
 ### Shor's algorithm implementation
 * Implementation of shor's algorithm using Qiskit - https://github.com/ttlion/ShorAlgQiskit
 * Quantum computing examples using QISKit - https://github.com/mrtkp9993/QuantumComputingExamples
