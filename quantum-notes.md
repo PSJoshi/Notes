@@ -6,6 +6,9 @@ Quantum systems are highly suspectible to decoherence. The states of quantum bit
 Google has released Cirq, an open source software toolkit that lets developers create algorithms without needing a background in quantum physics. Google has also released OpenFremion-Cirq for creation of 
 algorithms that simulate molecules and properties of materials.
 
+### Quantum algorithm and its implementation using Qskit 
+* Introduction to Coding Quantum Algorithms - https://arxiv.org/pdf/1903.04359.pdf
+* Fundamentals in quantum algorithms - https://arxiv.org/pdf/2008.10647.pdf
 
 ### Shor's algorithm implementation
 * Implementation of shor's algorithm using Qiskit - https://github.com/ttlion/ShorAlgQiskit
@@ -16,8 +19,6 @@ algorithms that simulate molecules and properties of materials.
 * Implementing Shor's algorithm in Cirq - https://github.com/dmitrifried/Shors-Algorithm-in-Cirq
 
 ### Some interesting links
-
-
 * Simulation of 45-bit quantum circuit - https://arxiv.org/pdf/1704.01127.pdf
 * Quantum circuit analyzer tool - https://iopscience.iop.org/article/10.1088/1367-2630/ab60f6#references
 * Quantum computing presentations:
