@@ -15,6 +15,12 @@ algorithms that simulate molecules and properties of materials.
   * https://www.spiedigitallibrary.org/proceedings/Download?fullDOI=10.1117/12.2532539
 
 * Prototype Container-Based Platform for Extreme Quantum Computing Algorithm Development - https://ieeexplore.ieee.org/document/8916430
+* Comparision of quantum computing platforms through quantum algorithm implementations - http://csis.pace.edu/~ctappert/srd/a12.pdf
+* Gate implementation and cancer detection with quantum computing - http://reports.ias.ac.in/report/19342/gate-implementation-and-cancer-detection-with-quantum-computing
+* Assessment of IBM-Q computer and its software environment - http://dice.cyfronet.pl/publications/source/MSc_theses/ZuzannaChrzastek-MSc-Thesis-June-2018.pdf
+* Introduction to quantum computing - https://cerfacs.fr/wp-content/uploads/2018/09/CSG_Suau-final_report.pdf
+* Quantum computing tutorial - https://pythonprogramming.net/qubits-gates-quantum-computer-programming-tutorial/
+
 
 ### Shor's algorithm implementation
 * Implementation of shor's algorithm using Qiskit - https://github.com/ttlion/ShorAlgQiskit
