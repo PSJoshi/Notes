@@ -34,3 +34,7 @@
 
 ### Time series
 * Flexible time series feature extraction & processing library in python - https://github.com/predict-idlab/tsflex
+### Log analysis
+* Predictive log analysis - https://github.com/animeshdutta888/System-Failure-Prediction-using-log-analysis
+### Free Book
+* Joy of cryptography Book - https://joyofcryptography.com
