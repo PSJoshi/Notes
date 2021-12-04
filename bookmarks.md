@@ -25,3 +25,12 @@
 * Evidence of execution on Windows -
    * https://blog.1234n6.com/2018/10/available-artifacts-evidence-of.html
    * https://blog.1234n6.com/2019/01/available-artifacts-evidence-of.html
+### ICS reated
+* Spire is an open-source intrusion-tolerant SCADA system for the power grid - http://www.dsn.jhu.edu/spire/
+* Prime: Byzantine Replication Under Attack - http://www.dsn.jhu.edu/prime/
+* Spines is a generic messaging infrastructure that provides transparent unicast, multicast and anycast communication over dynamic, multi-hop networking environments - http://spines.org/
+* SMesh is a seamless wireless mesh network - http://www.smesh.org/
+* pvBrowser, cross platform process visualization engine - https://pvbrowser.de/pvbrowser/index.php
+
+### Time series
+* Flexible time series feature extraction & processing library in python - https://github.com/predict-idlab/tsflex
