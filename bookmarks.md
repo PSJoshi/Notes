@@ -38,3 +38,5 @@
 * Predictive log analysis - https://github.com/animeshdutta888/System-Failure-Prediction-using-log-analysis
 ### Free Book
 * Joy of cryptography Book - https://joyofcryptography.com
+### Virtual machines
+* Desired state configuration of VM - https://octo.vmware.com/introducing-virtual-machine-desired-state-configuration/
