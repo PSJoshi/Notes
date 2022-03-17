@@ -40,3 +40,5 @@
 * Joy of cryptography Book - https://joyofcryptography.com
 ### Virtual machines
 * Desired state configuration of VM - https://octo.vmware.com/introducing-virtual-machine-desired-state-configuration/
+### IoT
+* Fileless attacks on Linux based IoT devices - https://www.ics.uci.edu/~alfchen/fan_mobisys19.pdf 
