@@ -19,8 +19,8 @@ c:\Program Files\Nmap\Scripts
 /usr/local/share/nmap/scripts
 ```
 #### Download nse scripts from official nmap site
-Nmap ```.nse`` scripts are located under ```https://svn.nmap.org/nmap/scripts/``` repository.
-It's official Git-based mirror is here - ```https://github.com/nmap/nmap/tree/master/scripts```
+Nmap ```.nse``` scripts are located under https://svn.nmap.org/nmap/scripts/ repository.
+It's official Git-based mirror is here - https://github.com/nmap/nmap/tree/master/scripts
 So, Download the repository using git pull command.
 
 Extract scripts folder and copy/overwrite over existing ```scripts``` directory.
